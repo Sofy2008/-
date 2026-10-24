@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 void generatePermutations(int arr[], int start, int size) {
     if (start == size) {
